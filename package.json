@@ -1,0 +1,11 @@
+{
+  "name": "ex0",
+  "version": "1.0.0",
+  "description": "Exercise 0 submission",
+  "main": "index.js",
+  "author": "Rubi Liani",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.12.0"
+  }
+}
